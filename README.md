@@ -19,4 +19,4 @@ Before you begin, ensure you have met the following requirements:
 Clone this repository to your local machine:
 
 ```sh
-git clone (https://github.com/Tristan380/ASPNET-Core-NotesApp)https://github.com/Tristan380/ASPNET-Core-NotesApp
+git clone https://github.com/Tristan380/ASPNET-Core-NotesApp
